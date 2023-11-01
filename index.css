@@ -1,0 +1,7 @@
+body {
+    color: rgb(227, 53, 53);
+}
+#p1 {color: black;}
+p.direita {text-align: right;}
+p.centro {text-align: center;}
+.esquerda {text-align: left;}
